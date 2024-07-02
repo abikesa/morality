@@ -5,10 +5,10 @@
 
 #######################################################################################
 # Book settings
-title                       : Dorian Gray  # The title of the book. Will be placed in the left navbar.
-author                      : Lord Henry  # The author of the book
+title                       : Music  # The title of the book. Will be placed in the left navbar.
+author                      : Dionysus  # The author of the book
 copyright                   : "2024"  # Copyright year to be placed in the footer
-logo                        : "https://qph.cf2.quoracdn.net/main-qimg-e47b66de8f65e19993a5068d151165af"  # A path to the book logo
+logo                        : "https://static.dw.com/image/62054308_1004.webp"  # A path to the book logo
 email                       : "theturingway@gmail.com"
 exclude_patterns            : ["LICENSE.md"]  # Patterns to skip when building the book. Can be glob-style (for example "*skip.ipynb")
 
